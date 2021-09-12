@@ -16,3 +16,5 @@ Fix: On next update
 # Important information
 
 If you don't have virtualization, please disable Virtual Machine Plataform and Windows Subsystem for Linux. 
+
+Download: https://drive.google.com/file/d/1jqlRBWlvm8CqHmZczq8vsOEnp3dyoP24/view?usp=sharing
