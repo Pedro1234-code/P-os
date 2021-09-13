@@ -37,6 +37,6 @@ Download: https://drive.google.com/file/d/1jqlRBWlvm8CqHmZczq8vsOEnp3dyoP24/view
 
 You can't login with Microsoft Account, as you can see in the image.
 
-Why I didn't put the ISO file directly on the GitHub release?
+Why I didn't put the ISO file directly on the GitHub releases page?
 
 Because the ISO has sizes of 4 gb, and the GitHub version only accepts files smaller than 2 gb, so it is impossible to upload.
