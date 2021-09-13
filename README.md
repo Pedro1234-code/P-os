@@ -7,7 +7,7 @@ Added Features: WSL and Microsoft .NET 4.5
 
 Performance Tests: The system was tested on a virtual machine using VMWare Workstation Player 16, with 1.6 gb of RAM, on a host with 4 gb of RAM, Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz   2.59 GHz, Dual-Boot Windows 10 and Windows 11, and the system was running better than a lot of real PCs, without freezes.
 
-# Know issues
+# Known issues
 
 The Windows 11's license screen on setup may appear in another language
 
