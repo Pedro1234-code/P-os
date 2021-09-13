@@ -8,6 +8,13 @@ Added Features: WSL and Microsoft .NET 4.5
 # Performance Tests
 The system was tested on a virtual machine using VMWare Workstation Player 16, with 1.6 gb of RAM, on a host with 4 gb of RAM, Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz   2.59 GHz, Dual-Boot Windows 10 and Windows 11, and the system was running better than a lot of real PCs, without freezes.
 
+The system, with GitHub Web running on Microsoft Edge, was spending 5% of the CPU, 42% of the RAM and 1% of the disk, surpassing the Windows 10 host
+
+Pos Task Manager: 
+
+![TaskmgrPos](https://user-images.githubusercontent.com/78425126/133113160-d595fbb0-c76b-47dc-8aef-cbfc322fdb0d.PNG)
+
+
 # Known issues
 
 The Windows 11's license screen on setup may appear in another language
