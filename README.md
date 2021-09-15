@@ -19,6 +19,8 @@ Pos Task Manager:
 
 The Windows 11's license screen on setup may appear in another language
 
+Windows shows an error saying that you don't have the requirements to install Windows 11. This happens because its setup program is based on leaked Windows 11 21996.1, which has many bugs, and this happens even if you have all the requirements of Windows 11, TPM, Secure Boot and others. We already have an ISO based on the Windows 10 setup, but it's still being tested and takes a long time to upload to Google Drive.
+
 Fix: On next update
 
 # Important information
