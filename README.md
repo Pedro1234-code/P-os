@@ -49,3 +49,8 @@ You can't login with Microsoft Account, as you can see in the image.
 Why I didn't put the ISO file directly on the GitHub releases page?
 
 Because the ISO has sizes of 4 gb, and the GitHub version only accepts files smaller than 2 gb, so it is impossible to upload.
+
+
+# What I am working for now:
+
+Build an ISO with an ESD image, not WIM. 
