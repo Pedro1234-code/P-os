@@ -1,14 +1,14 @@
 # P-os
-Sistema Operacional baseado no Windows 11, mas\ter and without Microsoft's garbage
+Sistema Operacional baseado no Windows 11, mas melhor e sem o lixo da Microsoft.
 
-Some of removed things: A lot of UWP Apps, Microsoft Account Sign-In, TPM 2.0 Requisite and Secure Boot requisite.
+Algumas coisas removidas: Muitos apps UWP, Login com Conta da Microsoft, Requisitos de TPM 2.0, Secure Boot e UEFI.
 
-Added Features: WSL and Microsoft .NET 4.5
+Recursos adicionados: WSL e Microsoft .NET 4.5 completo
 
 # Performance Tests
-The system was tested on a virtual machine using VMWare Workstation Player 16, with 1.6 gb of RAM, on a host with 4 gb of RAM, Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz   2.59 GHz, Dual-Boot Windows 10 and Windows 11, and the system was running better than a lot of real PCs, without freezes.
+O sistema foi testado numa virtual machine usando VMWare Workstation Player 16, com 1.6 gb of RAM, em um host com 4 gb of RAM, Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz   2.59 GHz, Dual-Boot Windows 10 e Windows 11, e o sistema estava rodando melhor que muitas of máquinas reais, sem travamentos.
 
-The system, with GitHub Web running on Microsoft Edge, was spending 5% of the CPU, 59% of the RAM and 1% of the disk, surpassing the Windows 10 host
+O sistema, com GitHub Web rodando no Microsoft Edge, estava gastando 5% da CPU, 59% da RAM e 1% do disco, passando o host Windows 10.
 
 Pos Task Manager: 
 
@@ -17,15 +17,13 @@ Pos Task Manager:
 
 # Known issues
 
-The Windows 11's license screen on setup may appear in another language
-
-Windows shows an error saying that you don't have the requirements to install Windows 11. This happens because its setup program is based on leaked Windows 11 21996.1, which has many bugs, and this happens even if you have all the requirements of Windows 11, TPM, Secure Boot and others. We already have an ISO based on the Windows 10 setup, but it's still being tested and takes a long time to upload to Google Drive.
+O nome P os pode desaparecer e voltar a ser Windows em alguns lugares, como winver.exe no P os 40.13
 
 Fix: On next update
 
 # Important information
 
-If you don't have virtualization, please disable Virtual Machine Plataform and Windows Subsystem for Linux. 
+If you don't have virtualization, por favor desabilite Virtual Machine Plattaform.
 
 Download: https://drive.google.com/file/d/1kk0W56caLigyzEEZUKt9upmYKPUQVUk5/view?usp=sharing
 # Images
@@ -53,4 +51,4 @@ Because the ISO has sizes of 4 gb, and the GitHub version only accepts files sma
 
 # What I am working for now:
 
-Build an ISO with an ESD image, not WIM. 
+Build an ISO with an ESD image, not WIM. | Launch P os 40.13.
