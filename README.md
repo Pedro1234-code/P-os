@@ -1,5 +1,5 @@
 # P-os
-Operating System based on Windows 11, but better and without Microsoft's garbage
+Sistema Operacional baseado no Windows 11, mas\ter and without Microsoft's garbage
 
 Some of removed things: A lot of UWP Apps, Microsoft Account Sign-In, TPM 2.0 Requisite and Secure Boot requisite.
 
