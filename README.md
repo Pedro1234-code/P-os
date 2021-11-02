@@ -1,3 +1,7 @@
+# P os 40.13
+
+P os 40.13 | A nova versão do P os já está disponível. O novo sistema inclui o P os Update, app de atualizações, loja de apps que roda no navegador, um novo papel de parede, a mesma simplicidade e leveza e outras novidades. Recursos removidos: Microsoft Store. Agora, se você fizer instalação limpa, terá mais mudanças ainda, como o nome P os no winver.exe, 
+
 # P-os
 Sistema Operacional baseado no Windows 11, mas melhor e sem o lixo da Microsoft.
 
