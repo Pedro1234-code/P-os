@@ -23,7 +23,7 @@ Fix: On next update
 
 # Important information
 
-If you don't have virtualization, por favor desabilite Virtual Machine Plattaform.
+Se você não tiver virtualização, por favor desabilite Virtual Machine Plattaform.
 
 Download: https://drive.google.com/file/d/1kk0W56caLigyzEEZUKt9upmYKPUQVUk5/view?usp=sharing
 # Images
