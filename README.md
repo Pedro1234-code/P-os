@@ -1,6 +1,6 @@
 # P os 40.13
 
-P os 40.13 | A nova versão do P os já está disponível. O novo sistema inclui o P os Update, app de atualizações, loja de apps que roda no navegador, um novo papel de parede, a mesma simplicidade e leveza e outras novidades. Recursos removidos: Microsoft Store. Agora, se você fizer instalação limpa, terá mais mudanças ainda, como o nome P os no winver.exe, 
+P os 40.13 | A nova versão do P os já está disponível. O novo sistema inclui o P os Update, app de atualizações, loja de apps que roda no navegador, um novo papel de parede, a mesma simplicidade e leveza e outras novidades. Recursos removidos: Microsoft Store. Agora, se você fizer instalação limpa, terá mais mudanças ainda, como o nome P os no winver.exe, configurações, e outros. 
 
 # P-os
 Sistema Operacional baseado no Windows 11, mas melhor e sem o lixo da Microsoft.
@@ -29,7 +29,7 @@ Fix: On next update
 
 Se você não tiver virtualização, por favor desabilite Virtual Machine Plattaform.
 
-Download: https://drive.google.com/file/d/1kk0W56caLigyzEEZUKt9upmYKPUQVUk5/view?usp=sharing
+Download: https://drive.google.com/file/d/1IyJvRmFpVYqpvPrMucofESBfufPzlngW/view?usp=sharing (P os 40.13)
 # Images
 
 ![Pos-1](https://user-images.githubusercontent.com/78425126/133007541-928567ce-7bd4-433f-ad41-15025eaad197.PNG)
@@ -55,4 +55,4 @@ Because the ISO has sizes of 4 gb, and the GitHub version only accepts files sma
 
 # What I am working for now:
 
-Build an ISO with an ESD image, not WIM. | Launch P os 40.13.
+Mudar a variável %systemroot%.
