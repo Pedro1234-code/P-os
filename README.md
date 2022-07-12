@@ -1,6 +1,6 @@
-# P os 40.13
+# P os 40.14
 
-P os 40.13 | A nova versão do P os já está disponível. O novo sistema inclui o P os Update, app de atualizações, loja de apps que roda no navegador, um novo papel de parede, a mesma simplicidade e leveza e outras novidades. Recursos removidos: Microsoft Store. Agora, se você fizer instalação limpa, terá mais mudanças ainda, como o nome P os no winver.exe, configurações, e outros. 
+P os 40.14 | Estamos trabalhando na última versão Release do P os. O que isso significa? Significa que estaremos introduzindo o P-os-As-a-Service, logo após o lançamento do P os 40.14. Esta versão será chamada de apenas P os, e será atualizada com novos recursos e novos nomes, assim como imagens de 4 em 4 meses. As atualizações ocorreram no aá incluido com o P os 40.13 e 40.14 
 
 # P-os
 Sistema Operacional baseado no Windows 11, mas melhor e sem o lixo da Microsoft.
