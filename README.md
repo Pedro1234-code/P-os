@@ -1,6 +1,12 @@
 # P os 40.14
 
-P os 40.14 | Estamos trabalhando na última versão Release do P os. O que isso significa? Significa que estaremos introduzindo o P-os-As-a-Service, logo após o lançamento do P os 40.14. Esta versão será chamada de apenas P os, e será atualizada com novos recursos e novos nomes, assim como imagens de 4 em 4 meses. As atualizações ocorreram no aá incluido com o P os 40.13 e 40.14 
+P os 40.14 | Estamos trabalhando na última versão Release do P os. O que isso significa? Significa que estaremos introduzindo o P-os-As-a-Service, logo após o lançamento do P os 40.14. Esta versão será chamada de apenas P os, e será atualizada com novos recursos e novos nomes, assim como imagens de 4 em 4 meses. As atualizações ocorreram no app já incluido com o P os 40.13 e 40.14, o P os Update.
+
+Novidades no nosso próximo release (P os 40.14):
+
+Wallpaper atualizado para combinar com o tema dark padrão; Desabilitado todos os serviços de telemetria; Restaurado Visualizador de Fotos do Windows; Botões pequenos na barra de tarefas; Menu de contexto clássico e responsivo; Removido navegador Firefox para deixar apenas o mais otimizado (Edge); Logo do P os no winver.exe
+
+O P os 40.14 está em processo de testes. Decidimos reconstruir nosso trabalho já feito e refazer com base no P os 40.13. Isso se dá pois os testes com a implementação do shell do Windows 10 na base do Windows 11 falhou, nos deixando sem opção a não ser rebootar o trabalho. Agora nós já concluimos e estamos confiantes de que irá funcionar.
 
 # P-os
 Sistema Operacional baseado no Windows 11, mas melhor e sem o lixo da Microsoft.
@@ -55,4 +61,6 @@ Because the ISO has sizes of 4 gb, and the GitHub version only accepts files sma
 
 # What I am working for now:
 
-Mudar a variável %systemroot%.
+Shell do Windows 10 e base do Windows 11
+
+Empacotar apps Win32 para MSIX e implantar no lugar de instaladores MSI
