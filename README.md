@@ -1,10 +1,10 @@
 # P os 40.14
 
-P os 40.14 | Estamos trabalhando na última versão Release do P os. O que isso significa? Significa que estaremos introduzindo o P-os-As-a-Service, logo após o lançamento do P os 40.14. Esta versão será chamada de apenas P os, e será atualizada com novos recursos e novos nomes, assim como imagens de 4 em 4 meses. As atualizações ocorreram no app já incluido com o P os 40.13 e 40.14, o P os Update.
+P os 40.14 | O P os 40.14 já está disponível. Link: https://drive.google.com/file/d/1tHHHbhoR9oaPsHvAyC-sZp_AiYvGBqm0/view?usp=sharing
 
 Novidades no nosso próximo release (P os 40.14):
 
-Wallpaper atualizado para combinar com o tema dark padrão; Desabilitado todos os serviços de telemetria; Restaurado Visualizador de Fotos do Windows; Botões pequenos na barra de tarefas; Menu de contexto clássico e responsivo; Removido navegador Firefox para deixar apenas o mais otimizado (Edge); Logo do P os no winver.exe
+Wallpaper atualizado para combinar com o tema dark padrão; Desabilitado todos os serviços de telemetria; Restaurado Visualizador de Fotos do Windows; Botões pequenos na barra de tarefas; Menu de contexto clássico e responsivo; Removido navegador Firefox para deixar apenas o mais otimizado (Edge); Logo do P os no winver.exe; Software GNU como wget pré-instalado; Microsoft To Do removido
 
 O P os 40.14 está em processo de testes. Decidimos reconstruir nosso trabalho já feito e refazer com base no P os 40.13. Isso se dá pois os testes com a implementação do shell do Windows 10 na base do Windows 11 falhou, nos deixando sem opção a não ser rebootar o trabalho. Agora nós já concluimos e estamos confiantes de que irá funcionar.
 
@@ -16,11 +16,11 @@ Algumas coisas removidas: Muitos apps UWP, Login com Conta da Microsoft, Requisi
 Recursos adicionados: WSL e Microsoft .NET 4.5 completo
 
 # Performance Tests
-O sistema foi testado numa virtual machine usando VMWare Workstation Player 16, com 1.6 gb of RAM, em um host com 4 gb of RAM, Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz   2.59 GHz, Dual-Boot Windows 10 e Windows 11, e o sistema estava rodando melhor que muitas of máquinas reais, sem travamentos.
+O sistema foi testado numa virtual machine usando VMWare Workstation Player 16, com 1.6 gb of RAM, em um host com 4 gb of RAM, Intel(R) Core(TM) i3-10110U CPU @ 2.10GHz   2.59 GHz, Dual-Boot Windows 10 e Windows 11, e o sistema estava rodando melhor que muitas máquinas reais, sem travamentos.
 
 O sistema, com GitHub Web rodando no Microsoft Edge, estava gastando 5% da CPU, 59% da RAM e 1% do disco, passando o host Windows 10.
 
-Pos Task Manager: 
+Gerenciador de tarefas: 
 
 ![TaskmgrPos](https://user-images.githubusercontent.com/78425126/133113160-d595fbb0-c76b-47dc-8aef-cbfc322fdb0d.PNG)
 
