@@ -1,7 +1,7 @@
 # P os 40.14
 
-P os 40.14 | O P os 40.14 já está disponível. Link: https://drive.google.com/file/d/1tHHHbhoR9oaPsHvAyC-sZp_AiYvGBqm0/view?usp=sharing
-
+P os 40.14 | O P os 40.14 já está disponível. 
+https://drive.google.com/file/d/1P1FtXzS8F2L0iN6JtbxaLtrw2MWlxtY9/view?usp=drivesdk
 Novidades no nosso próximo release (P os 40.14):
 
 Wallpaper atualizado para combinar com o tema dark padrão; Desabilitado todos os serviços de telemetria; Restaurado Visualizador de Fotos do Windows; Botões pequenos na barra de tarefas; Menu de contexto clássico e responsivo; Removido navegador Firefox para deixar apenas o mais otimizado (Edge); Logo do P os no winver.exe; Software GNU como wget pré-instalado; Microsoft To Do removido
