@@ -1,0 +1,8 @@
+Privacy policy for the Windows 11 setup app
+
+
+First of all, we do not colect any data and the application is completely offline (that means that the Microsoft Store version does not connect to any server)
+
+The application is completely freeware and open-source. It does not contain any bloatware, spyware or malware that puts our users' data in risk
+
+If you want to contact me, then please send me an email to this adress: pmig749@gmail.com
